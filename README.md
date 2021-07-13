@@ -1,5 +1,5 @@
 <h2> Hi, I'm Eduardo Jauregui></h2>
-<img align='right' src="https://media1.tenor.com/images/55d35a85d446d9d073aa0c6d36a8a195/tenor.gif?itemid=15163950" width="230">
+<img align='right' src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a110f124-0c24-4ec7-ab1e-7a3119650ccb/db10u2p-94d8c6d1-a98c-4373-92d2-a7b167239f80.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ExMTBmMTI0LTBjMjQtNGVjNy1hYjFlLTdhMzExOTY1MGNjYlwvZGIxMHUycC05NGQ4YzZkMS1hOThjLTQzNzMtOTJkMi1hN2IxNjcyMzlmODAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PcR1AO753BfeDcJuco-AVzf7BoGcHSx8n_du_U17EgY" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
