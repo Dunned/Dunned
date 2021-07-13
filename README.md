@@ -15,8 +15,8 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>less is more</em>
+<img src="https://freshmarketing.es/wp-content/uploads/2019/12/comunicacion.gif" width="60"> <em>Less is more</em>
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@Dunned](https://github.com/Dunned)
