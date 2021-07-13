@@ -1,5 +1,5 @@
 <h2> Hi, I'm Eduardo Jauregui></h2>
-<img align='right' src="http://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media1.tenor.com/images/55d35a85d446d9d073aa0c6d36a8a195/tenor.gif?itemid=15163950" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
