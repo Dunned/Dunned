@@ -7,7 +7,7 @@
 
 ```javascript
 const thai = {
-  code: [C++,Java,...],
+  code: [C++,Java,Wix...],
   techCommunities: {
                         founder: "AcademiaCpp",
                         stundent: "FISI",
